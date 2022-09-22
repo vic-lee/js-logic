@@ -19,6 +19,8 @@ function isRainy(boo){
 
 console.log(isRainy(true));
 
+console.log('test');
+
 
 /*2. Create a function named vaccinated which takes a boolean parameter boo. 
 If the value is true, it'll return the statement: 'Please come in.' 
