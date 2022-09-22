@@ -20,6 +20,7 @@ function isRainy(boo){
 console.log(isRainy(true));
 
 console.log('test');
+console.log('another test');
 
 
 /*2. Create a function named vaccinated which takes a boolean parameter boo. 
